@@ -1,6 +1,6 @@
 ![alt text](https://github.com/psichedel/Thetan-Arena-bot/blob/main/Untitled.png?raw=true)
 
-Auto battle bot for Thetan Arena (auto aim + auto walk). Supported gameplay mods: battle royale, superstar, deathmatch, tower seige.
+Auto battle bot for Thetan Arena (auto aim + auto walk). Supported gameplay mods: battle royale, superstar, deathmatch, tower seige. Written in C#.
 
 ### Features
 - No process memory scanning, pixel-scan only 
